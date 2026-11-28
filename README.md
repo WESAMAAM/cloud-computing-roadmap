@@ -11,12 +11,12 @@
 
 ***
 
-## About
+## 🎯 About
 
 This is a complete step-by-step cloud computing learning roadmap built for students and beginners using Amazon Web Services (AWS)<br>
 where you will learn how to work with the cloud across different tech roles, and you will also dive deeper to master its core areas if your goal is to specialize in cloud engineering
 
-## Why Cloud?
+## Why Cloud? 🤔
 
 Today, modern companies rely heavily on cloud computing to build, host, and scale their applications, databases, and AI models instead of managing expensive physical servers, Learning how the cloud works gives you a major advantage in the job market, allowing you to deploy real projects online, handle large scale data, and build reliable systems with global reach<br>
 
@@ -28,7 +28,7 @@ So cloud computing is not just a specialized field for those who want to master 
 
 <br clear="all">
 
-## Why AWS Over Competitors?
+## Why AWS Over Competitors? ☁️
 
 <a href="" target="_blank">
   <img src="/media/meme5.jpeg" width="250" align="left" style="margin-left: 20px;" alt="">
